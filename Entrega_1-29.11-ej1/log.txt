@@ -1,0 +1,11 @@
+commit 9ffdf4261c92c03f2d10bbe1ff58589346657205
+Author: arusti <arustis.99@gmail.com>
+Date:   Tue Nov 28 11:49:39 2023 -0300
+
+    -Segundo commit- Edicion del archivo README
+
+commit 8e73729612fb2457ae877ca6c6da855439503c1f
+Author: arusti <arustis.99@gmail.com>
+Date:   Tue Nov 28 11:37:33 2023 -0300
+
+    Primer commit
