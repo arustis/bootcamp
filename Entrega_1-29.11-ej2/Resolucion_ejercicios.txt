@@ -5,3 +5,4 @@ Al cambiar de rama, si el archivo en el que estabamos trabajando ya estaba agreg
 
 Resolucion ejercicio 2:
 Se debe ejecutar -git merge front-react- para mergear estos cambios a la rama principal master y que queden aplicados.
+
