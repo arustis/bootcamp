@@ -16,7 +16,7 @@ public class Ejercicio_01 {
 /*
  * El procedimiento realizado es:
  * calculo la cantidad de semanas que es equivalente las horas totales, como lo numeros
- * son enteros sin coma
+ * son enteros sin coma, el resto lo uso para calcular los dias y las horas
  */
 		System.out.println("Cantidad de horas totales: " + horasTotales);
 		System.out.println("Semanas: " + semanas);
