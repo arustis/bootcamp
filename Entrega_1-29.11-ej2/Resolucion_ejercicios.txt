@@ -1,8 +1,0 @@
-Resolucion ejercicio 1:
-Se debe cambiar de rama con el comando -git checkout master-, luego con el comando -rm status.js- se elimina el archivo.
-Luego con -git checkout custom-navbar- cambiamos a la rama en la estabamos trabajando y continuamos el commit. 
-Al cambiar de rama, si el archivo en el que estabamos trabajando ya estaba agregado para commitiar, al volver podremos proseguir con el commit.
-
-Resolucion ejercicio 2:
-Se debe ejecutar -git merge front-react- para mergear estos cambios a la rama principal master y que queden aplicados.
-
